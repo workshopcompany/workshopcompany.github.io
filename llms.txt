@@ -1,0 +1,14 @@
+# Minchul Kim — Portfolio & Projects
+
+> Landing page for Minchul Kim, Advanced Materials Engineer: portfolio, AI & engineering tools, and HubTools.
+> Site: https://workshopcompany.github.io/
+
+## Sites
+
+- Portfolio — Portfolio of Minchul Kim, Advanced Materials Engineer. https://workshopcompany.github.io/minchul-kim/
+- AI & Engineering Portfolio — Free Streamlit tools and open-source engineering projects. https://workshopcompany.github.io/AI-Projects/
+- HubTools — Free browser tools, games and Korean fortune reading. https://hubtools.pages.dev/
+
+## Author
+
+- Minchul Kim, Advanced Materials Engineer.
